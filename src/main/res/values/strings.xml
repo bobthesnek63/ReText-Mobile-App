@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Formalize Text</string>
+    <string name="title_activity_formalize">Formalize</string>
+    <string name="title_activity_rectify">Rectify</string>
+    <string name="title_activity_concise">Concise</string>
+    <string name="title_activity_clarify">Clarify</string>
+</resources>
